@@ -14,7 +14,12 @@ const adicionaValores = (number) => {
 
 const resultadoConta = () => {
     if(valorDisplay.value.includes('/0')){
-        valorDisplay.value = 0
+        valorDisplay.style.fontSize='28px'
+        valorDisplay.value = 'Não divisivél por zero'
+        display = setTimeout(() =>{
+            valorDisplay.style.fontSize='48px'
+            valorDisplay.value=''
+        },2000)
     }
     else {
         valorDisplay.value = eval(valorDisplay.value)
