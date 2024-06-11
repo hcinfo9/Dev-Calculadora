@@ -20,13 +20,12 @@
   <ul>
       <li><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></li>
       <li><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
-      <li><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
       <li><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></li>
       
   </ul>
 <h2 id="started">🚀 Descrição:</h2><br>
 
-A aplicação  desenvolvida foi uma calculadora em HTML, CSS, JavaScript e  BootStrap fornecido. A aplicação simula uma calculadora básica com as seguintes funcionalidades:
+A aplicação  desenvolvida foi uma calculadora em HTML, CSS, JavaScript. A aplicação simula uma calculadora básica com as seguintes funcionalidades:
 
 <ul>
   <li>Realizar operações matemáticas básicas (adição, subtração, multiplicação e divisão).</li>
@@ -37,7 +36,7 @@ A aplicação  desenvolvida foi uma calculadora em HTML, CSS, JavaScript e  Boot
   <li>Reabilitar todos os operadores após a obtenção do resultado.</li>
   <li>Exibir uma mensagem de erro em caso de divisão por zero.</li>
   <li>Limpar a tela da calculadora.</li>
-  <li>Inverter o sinal do número exibido..<br><br></li>
+  <li>Inverter o sinal do número exibido.<br><br></li>
 </ul>
 
 
