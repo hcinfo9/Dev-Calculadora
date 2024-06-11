@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Projeto MapFilterReduce 💻</h1>
+<h1 align="center" style="font-weight: bold;">Projeto  Dev-Calculadora 💻</h1>
 
 <br><p align="center">
  <a href="#tech">Tecnologias</a> • 
